@@ -1,3 +1,6 @@
+RollNo : 92600584051
+Name   : Dwarkesh Parmar
+
 # No Two Queens can be in the same row.
 # No Two Queens can be in the same column.
 # No Two Queens can be on the same diagonal.

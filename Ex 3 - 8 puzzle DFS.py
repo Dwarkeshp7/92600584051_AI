@@ -1,3 +1,6 @@
+RollNo : 92600584051
+Name   : Dwarkesh Parmar
+
 # Goal state
 goal = (1,2,3,
         4,5,6,
